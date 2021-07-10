@@ -3,7 +3,7 @@
 
 A simple blog-app designed using django framework 
 
-**Tools/langauges Used**
+**Tools/langauges Used**📱
 1. Django (back-end)
 2. Python
 3. Html ,CSS ,Bootstrap (front-end)
