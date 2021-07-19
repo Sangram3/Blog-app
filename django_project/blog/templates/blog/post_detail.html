@@ -2,7 +2,9 @@
 {%extends "blog/base.html" %}
 
 {% block content %}
-
+    <style>body {
+        font-family: 'Times New Roman', serif;
+    }</style>
     <!-- ARTICLE FOR A SINGLE POST : WITH CSS  -->
     <article class="media content-section" >
         <img src="{{ post.author.profile.image.url }}" class="rounded-circle article-img">

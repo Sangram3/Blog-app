@@ -1,6 +1,9 @@
 {%extends "blog/base.html" %}
 {% load crispy_forms_tags %}
 {% block content %}
+<style>body {
+  font-family: 'Times New Roman', serif;
+}</style>
 <div class="content-section">
     <div class="media">
       <img class="rounded-circle account-img" src="{{user.profile.image.url}}">
