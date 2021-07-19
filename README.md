@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/58004845/126179286-993f4560-abc0-4f58-
 2. Install PILLOW, Crispy Forms (Python libraries).
 3. Clone the repository or download it.
 4. Browse the project repository on your command prompt or terminal.
-5. Run command python manage.py runserver in command prompt.
+5. Run command 'python manage.py runserver' in command prompt.
 6. Visit http://127.0.0.1:8000/ in your brower
 
 **Share with your friends & enjoy! 😃**
