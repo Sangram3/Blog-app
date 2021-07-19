@@ -1,13 +1,10 @@
 **BLOG-APP** 📱
-
-
 A simple blog-app designed using django framework 
 
 **Tools/langauges Used**📱
 1. Django (back-end)
 2. Python (libraries PILLOW , CRISPY FORMS)
 3. Html ,CSS ,Bootstrap (front-end)
-
 
 **PREVIEW** 🚀
 
