@@ -2,7 +2,7 @@
 
 A simple blog-app designed using django framework 
 
-**Tools/langauges Used**📱
+**TOOLS/LANGUAGES USED**📱
 1. Django (back-end)
 2. Python (libraries PILLOW , CRISPY FORMS)
 3. Html ,CSS ,Bootstrap (front-end)
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/58004845/126179286-993f4560-abc0-4f58-
 
 
 
-**How to run locally** 💻
+**HOW TO RUN LOCALLY** 💻
 1. Install Django.
 2. Install PILLOW, Crispy Forms (Python libraries).
 3. Clone the repository or download it.
