@@ -9,6 +9,10 @@ A simple blog-app designed using django framework
 **PREVIEW** 🚀
 
 
+https://user-images.githubusercontent.com/58004845/126179286-993f4560-abc0-4f58-9fc7-d5a7836624c7.mp4
+
+
+
 **How to run locally** 💻
 1. Install Django.
 2. Install PILLOW, Crispy Forms (Python libraries).
