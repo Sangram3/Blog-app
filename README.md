@@ -1,4 +1,5 @@
 **BLOG-APP** 📱
+
 A simple blog-app designed using django framework 
 
 **Tools/langauges Used**📱
